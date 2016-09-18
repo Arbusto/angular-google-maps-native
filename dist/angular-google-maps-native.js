@@ -1227,3 +1227,5 @@
   ;
 
 }(angular));
+
+module.exports = angular.module('GoogleMapsNative');
